@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "typeRoots": ["types", "node_modules/@types"],
+    "target": "es5",
+    "module": "es2015",
+    "jsx": "react",
+    "moduleResolution": "node",
+    "lib": ["es2019", "dom"],
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": ["node_modules"]
+}
